@@ -21,3 +21,5 @@ submenu "AutoISO - load Linux from .iso " {
 3. Change iso_dirs="/ /bootisos /iso"
 4. Copy the LiveCD images to the $iso_dirs directory of any partition
 5. Reboot
+
+Spaces in image names are not supported!!!
