@@ -1,4 +1,7 @@
-# autoiso-multiboot https://archlinux.org.ru/forum/topic/19029/
+# autoiso-multiboot 
+https://archlinux.org.ru/forum/topic/19029/
+
+
 Multiboot config for GRUB2
 
 Automatically searches for iso images containing /boot/grub/loopback.сfg in the $iso_dirs directory 
